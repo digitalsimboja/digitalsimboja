@@ -3,15 +3,18 @@
 # Hi, I'm Sunday Mgbogu 
 <img src="https://avatars.githubusercontent.com/u/32062279?v=4">
 
+### About Me
+# replace contents according to you.
+<table>
+<tr>
+  <td valign="center">
+    🌱 I am currently building **Smart Contracts**, on the **Ethereum** and **Polygon** Networks. and also interested in **Web Security**.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    ✨ I love to create different types of **contents**, teach and guide young budding Engineers.
+<td >
+    <a href="#"><img src="<img src="https://avatars.githubusercontent.com/u/32062279?v=4">" width="300" alt="Sunday Mgbogu's Dev Card"/></a>
+  </td>
 
-Here are some ideas to get you started:
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
