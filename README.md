@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Hi, I'm Sunday Mgbogu 
-<img src="https://avatars.githubusercontent.com/u/32062279?v=4" width="29px">
+<img src="https://avatars.githubusercontent.com/u/32062279?v=4">
 
 
 Here are some ideas to get you started:
