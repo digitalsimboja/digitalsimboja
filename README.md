@@ -2,7 +2,7 @@
 
 <img align="center" src="https://avatars.githubusercontent.com/u/32062279?v=4">
 
-<h3 align="left">A passionate Fullstack Developer</h3>
+<h3 align="left">I'm a Fullstack Developer</h3>
 
 
 - 🔭 I’m currently working on [OpenStack Kuryr-Kubernetes](https://review.opendev.org/q/owner:digitalsimboja%2540gmail.com)
