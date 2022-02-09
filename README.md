@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**digitalsimboja/digitalsimboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sunday Mgbogu 
+<img src="https://avatars.githubusercontent.com/u/32062279?v=4" width="29px">
+
 
 Here are some ideas to get you started:
 
