@@ -9,8 +9,9 @@
 - 🎯 My Goal is to Contribute to as many **open source project** as possible.
 - ✨ I love to create different types of **contents**, teach and guide young budding Engineers.
 
-### OpenSource Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#digitalsimboja&theme=dracula&hide_border=true)
+### Connect With Me
+---------------------------------------------------------------------------------------------------------------------------------------
+/twitter/url?url=https%3A%2F%2Fshields.io 
 
 
 
