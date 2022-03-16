@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [OpenStack Kuryr-Kubernetes](https://review.opendev.org/q/owner:digitalsimboja%2540gmail.com)
 
-- 🌱 I'm currently building **Smart Contracts**, on the **Ethereum** and **Polygon** Networks. and also interested in **Web Security**.
+- 🌱 I'm currently building **Smart Contracts**, on the **Ethereum**, **NEAR* and **Polygon** Networks. and also interested in **Web Security**.
 
 - 📝 I regularly write articles on [https://digitalsimboja.hashnode.dev/](https://digitalsimboja.hashnode.dev/)
 
-- 💬 Ask me about **python, solidity, Dapp, react**
+- 💬 Ask me about **NFT, DeFi,Solidity, Dapp,NEAR, Ethereum Blockchain, React and Python, **
 
 - 📫 How to reach me **digitalsimboja@gmail.com**
 
