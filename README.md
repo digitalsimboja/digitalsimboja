@@ -5,7 +5,7 @@
 <h3 align="left">I'm a Fullstack Developer</h3>
 
 
-- 🔭 I’m currently working on [OpenStack Kuryr-Kubernetes](https://review.opendev.org/q/owner:digitalsimboja%2540gmail.com)
+- 🔭 I’m currently working on [AERX](https://aerx-frontend-clean-2i8d1dri4-aerx-dev.vercel.app/)
 
 - 🌱 I'm currently building **Smart Contracts** and **NFTs** on the **Ethereum**, **NEAR** and **Polygon** Networks. and also interested in **Web Security**.
 
