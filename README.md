@@ -9,9 +9,8 @@
 
 - 🌱 I'm currently building **Smart Contracts** and **NFTs** on the **Ethereum**, **NEAR** and **Polygon** Networks. and also interested in **Web Security** while learning **Substrate**.
 
-- 📝 I regularly write articles on [https://digitalsimboja.hashnode.dev/](https://digitalsimboja.hashnode.dev/)
 
-- 💬 Ask me about **NFT, DeFi,Solidity, Dapp,NEAR, Ethereum Blockchain, React and Python, **
+- 💬 Ask me about **NFT,Rust, Substrate, Polkadot, DeFi,Solidity, Dapp,NEAR, Ethereum Blockchain, React and Python, **
 
 - 📫 How to reach me **digitalsimboja@gmail.com**
 
