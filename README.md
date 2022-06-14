@@ -5,12 +5,10 @@
 <h3 align="left">I'm a Fullstack Developer</h3>
 
 
-- 🔭 I’m currently working on [AERX](https://aerx-frontend-clean-2i8d1dri4-aerx-dev.vercel.app/)
+- 🔭 I’m currently working on [HydraDAO](https://reiser95.github.io/hydra/)
 
-- 🌱 I'm currently building **Smart Contracts** and **NFTs** on the **Ethereum**, **NEAR** and **Polygon** Networks. and also interested in **Web Security** while learning **Substrate**.
+- 🌱 I'm currently building **Smart Contracts** and **NFTs** on the **Ethereum**, **NEAR** and **Polkadot** Networks. and also interested in **Web Security** while learning **Substrate**, **Rust**.
 
-
-- 💬 Ask me about **NFT,Rust, Substrate, Polkadot, DeFi,Solidity, Dapp,NEAR, Ethereum Blockchain, React and Python, **
 
 - 📫 How to reach me **digitalsimboja@gmail.com**
 
