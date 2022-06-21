@@ -2,7 +2,7 @@
 
 <img align="center" src="https://avatars.githubusercontent.com/u/32062279?v=4">
 
-<h3 align="left">I'm a Fullstack Developer</h3>
+<h3 align="left">I'm a Software Developer</h3>
 
 
 - 🔭 I’m currently working on [HydraDAO](https://reiser95.github.io/hydra/)
