@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Evveland](https://evveland.com/)
 
-- 🌱 I'm currently building **Smart Contracts** and **NFTs** on the **Ethereum**, **NEAR** and **Polkadot** Networks. and also interested in **Web Security** while learning **Substrate**, **Rust**.
+- 🌱 I'm currently building **Smart Contracts** and **NFTs** on the **EVM**, **Polygon**, **NEAR** and **Polkadot** Networks. and also interested in **Web Security** while sharpening my skills on **Substrate**, **Rust**.
 
 
 - 📫 How to reach me **digitalsimboja@gmail.com**
