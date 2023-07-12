@@ -1,13 +1,8 @@
-<h1 align="left">Hi 👋, I'm Sunday Mgbogu</h1>
+<h1 align="left">Hi 👋, I'm Sunday</h1>
 
 <img align="center" src="https://avatars.githubusercontent.com/u/32062279?v=4">
 
 <h3 align="left">I'm a Software Developer</h3>
-
-
-- 🔭 I’m currently working on [Evveland](https://evveland.com/)
-
-- 🌱 I'm currently building **Smart Contracts** on **Concordium**, **Polygon**, **NEAR**, **Polkadot**, and **BTTC** Networks. and also interested in **Smart Contract Security** while sharpening my skills on **Rust**.
 
 
 - 📫 How to reach me **digitalsimboja@gmail.com**
