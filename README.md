@@ -2,8 +2,6 @@
 
 <img align="center" src="https://avatars.githubusercontent.com/u/32062279?v=4">
 
-<h3 align="left">I'm a Software Developer</h3>
-
 
 - 📫 How to reach me **digitalsimboja@gmail.com**
 
