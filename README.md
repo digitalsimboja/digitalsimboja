@@ -1,8 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sunday</h1>
 
-<img align="center" src="https://avatars.githubusercontent.com/u/32062279?v=4">
-
-
 - 📫 How to reach me **digitalsimboja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
