@@ -14,7 +14,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digitalsimboja&show_icons=true&locale=en&layout=compact" alt="digitalsimboja" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalsimboja&show_icons=true&locale=en" alt="digitalsimboja" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=digitalsimboja)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalsimboja&" alt="digitalsimboja" /></p>
 
